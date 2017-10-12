@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1480340719 source:c:\users\salvatore\desktop\progetto\tris\main.cpp
+	"gamecontroller.h"
+	"windows.h"
+
+1480339438 c:\users\salvatore\desktop\progetto\tris\campogioco.h
+	<iostream>
+
+1480339336 source:c:\users\salvatore\desktop\progetto\tris\campogioco.cpp
+	<iostream>
+	"campogioco.h"
+	<windows.h>
+
+1480258608 source:c:\users\salvatore\desktop\progetto\tris\pc.cpp
+	"pc.h"
+
+1480258639 source:c:\users\salvatore\desktop\progetto\tris\giocatore.cpp
+	<windows.h>
+	"giocatore.h"
+	<conio.h>
+
+1480339314 c:\users\salvatore\desktop\progetto\tris\giocatore.h
+	"pc.h"
+
+1480339314 c:\users\salvatore\desktop\progetto\tris\pc.h
+	"campogioco.h"
+
+1480181457 c:\users\salvatore\desktop\progetto\tris\campogioco.cpp
+	<iostream>
+
+1480183223 source:c:\users\salvatore\desktop\progetto\tris\tris.cpp
+	<windows.h>
+
+1480183223 c:\users\salvatore\desktop\progetto\tris\tris.cpp
+	<windows.h>
+
+1480340725 source:c:\users\salvatore\desktop\progetto\tris\gamecontroller.cpp
+	"gamecontroller.h"
+	"windows.h"
+
+1480340719 c:\users\salvatore\desktop\progetto\tris\gamecontroller.h
+	"giocatore.h"
+	"TrisIA.h"
+
+1480253475 source:c:\users\salvatore\desktop\progetto\tris\ia.cpp
+	<windows.h>
+
+1480253475 c:\users\salvatore\desktop\progetto\tris\ia.cpp
+	<windows.h>
+
+1480337476 c:\users\salvatore\desktop\progetto\tris\trisia.h
+
+1480337337 source:c:\users\salvatore\desktop\progetto\tris\trisia.cpp
+	"TrisIA.h"
+
+1480339336 source:e:\progetto\tris\campogioco.cpp
+	<iostream>
+	"campogioco.h"
+	<windows.h>
+
+1480339438 e:\progetto\tris\campogioco.h
+	<iostream>
+
+1480340725 source:e:\progetto\tris\gamecontroller.cpp
+	"gamecontroller.h"
+	"windows.h"
+
+1480340719 e:\progetto\tris\gamecontroller.h
+	"giocatore.h"
+	"TrisIA.h"
+
+1480339314 e:\progetto\tris\giocatore.h
+	"pc.h"
+
+1480339314 e:\progetto\tris\pc.h
+	"campogioco.h"
+
+1480337476 e:\progetto\tris\trisia.h
+
+1480342411 source:e:\progetto\tris\giocatore.cpp
+	<windows.h>
+	"giocatore.h"
+	<conio.h>
+
+1480340719 source:e:\progetto\tris\main.cpp
+	"gamecontroller.h"
+	"windows.h"
+
+1480258608 source:e:\progetto\tris\pc.cpp
+	"pc.h"
+
+1482233883 source:e:\progetto\tris\trisia.cpp
+	"TrisIA.h"
+
